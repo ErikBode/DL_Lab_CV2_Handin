@@ -1,0 +1,15 @@
+huggingface_hub
+datasets
+transformers
+bitsandbytes
+accelerate
+peft
+torch
+trl
+wandb
+python-dotenv
+evaluate
+rouge_score
+mauve-text
+librosa 
+soundfile
